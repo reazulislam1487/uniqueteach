@@ -1,0 +1,20 @@
+.bjqs-caption h2{
+	color:#000;
+}.bjqs-caption h2:hover{
+	color:#fff;
+}
+.bjqs-caption p:hover{
+	color:white;
+	width:100%;
+}.bjqs-caption p{
+	color:#000;
+}
+.bjqs-caption a {
+	color:black;
+}
+.bjqs-caption a:hover{
+	color:white;
+	font-weight:bold;
+	border-radius:15px;
+	
+}
